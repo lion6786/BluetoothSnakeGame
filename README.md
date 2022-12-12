@@ -15,5 +15,7 @@ Resources used:
       https://www.edureka.co/blog/snake-game-with-pygame/
     Controller connectivity:
       https://python-evdev.readthedocs.io/en/latest/tutorial.html
+      
       https://core-electronics.com.au/guides/using-usb-and-bluetooth-controllers-with-python/
+      
       https://raspberry-valley.azurewebsites.net/Map-Bluetooth-Controller-using-Python/
