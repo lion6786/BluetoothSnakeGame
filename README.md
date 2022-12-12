@@ -12,4 +12,8 @@ Once done you should be able to run the game, so run the .py file named pygameSn
 
 Resources used:
     Snake Game code adapted from:
-    https://www.edureka.co/blog/snake-game-with-pygame/
+      https://www.edureka.co/blog/snake-game-with-pygame/
+    Controller connectivity:
+      https://python-evdev.readthedocs.io/en/latest/tutorial.html
+      https://core-electronics.com.au/guides/using-usb-and-bluetooth-controllers-with-python/
+      https://raspberry-valley.azurewebsites.net/Map-Bluetooth-Controller-using-Python/
